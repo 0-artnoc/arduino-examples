@@ -1,1 +1,1 @@
-Reads a byte from the serial port, and sends back a keystroke. 
+Считывает байт из последовательного порта и отправляет обратно нажатие клавиши. 
